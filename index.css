@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: Verdana
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#Home-scoreboard, #Guest-scoreboard {
+    display: block;
+    padding: px;
+    color: #F94F6D;
+    font-size: 90px;
+    background-color: black;
+    border-radius: 5px;
+    text-align: center;
+    width: 155px;
+    height: 120px;
+}
+
+.container {
+    background-color: #1b244a;
+    width: 575px;
+    height: 385px;
+    
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    margin: 68px 0 21px 0;
+    font-size: 40px;    
+}
+
+#Plus-buttons {
+    margin: 26px 11px 11px 0px ;
+    color: #9AABD8; 
+    border: solid #9AABD8 2px;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: transparent;
+    padding: 8px;
+}
